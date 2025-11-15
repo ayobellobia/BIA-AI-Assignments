@@ -1,2 +1,1 @@
-# colab-git-assignment2
-Assignments
+Assignments 13: A lightweight implementation of a GPT-like text generation model using LSTM networks. This project demonstrates the core concepts of generative AI with minimal dependencies and fast training times
